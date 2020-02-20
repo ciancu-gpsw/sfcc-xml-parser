@@ -1,0 +1,1634 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<redirect-urls xmlns="http://www.demandware.com/xml/impex/redirecturl/2011-09-01">
+    <redirect-url uri="/Default-Start">
+        <destination-id>cameras</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Home-Show">
+        <destination-id>cameras</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Marketing">
+        <destination-id>cameras</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Marketing/">
+        <destination-id>cameras</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Marketing/GiftCert-Purchase">
+        <destination-id>cameras</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/default/GiftCert-Purchase">
+        <destination-id>cameras</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/default/SendToFriend-Login">
+        <destination-id>cameras</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="advancedsystems" source-type="category">
+        <destination-id>cameras</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="broadcasting" source-type="category">
+        <destination-id>cameras</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="custom-solutions" source-type="category">
+        <destination-id>cameras</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="odyssey" source-type="category">
+        <destination-id>cameras</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="virtualreality" source-type="category">
+        <destination-id>cameras</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHS-102-master" source-type="product">
+        <destination-id>cameras</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHS-104-master" source-type="product">
+        <destination-id>cameras</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="MHDHX-006" source-type="product">
+        <destination-id>cameras</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="allinclusive-omni-bundle" source-type="product">
+        <destination-id>cameras</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="QKWUG-001" source-type="product">
+        <destination-id>karma-hidden</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="QKWUG-001-EU" source-type="product">
+        <destination-id>karma-hidden</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="QKWUG-001-master" source-type="product">
+        <destination-id>karma-hidden</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="QKWXX-015" source-type="product">
+        <destination-id>karma-hidden</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="QKWXX-015-EC" source-type="product">
+        <destination-id>karma-hidden</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="QKWXX-015-EU" source-type="product">
+        <destination-id>karma-hidden</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="QKWXX-015-JK" source-type="product">
+        <destination-id>karma-hidden</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="QKWXX-015-master" source-type="product">
+        <destination-id>karma-hidden</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="QKWXX-511" source-type="product">
+        <destination-id>karma-hidden</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="QKWXX-511-EC" source-type="product">
+        <destination-id>karma-hidden</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="QKWXX-511-EU" source-type="product">
+        <destination-id>karma-hidden</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="QKWXX-511-master" source-type="product">
+        <destination-id>karma-hidden</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="QKWXX-601" source-type="product">
+        <destination-id>karma-hidden</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="QKWXX-601-EC" source-type="product">
+        <destination-id>karma-hidden</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="QKWXX-601-EU" source-type="product">
+        <destination-id>karma-hidden</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="QKWXX-601-JK" source-type="product">
+        <destination-id>karma-hidden</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="QKWXX-601-master" source-type="product">
+        <destination-id>karma-hidden</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="accessories" source-type="category">
+        <destination-id>mounts-accessories</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>yes</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="apparel" source-type="category">
+        <destination-id>mounts-accessories</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="mounts" source-type="category">
+        <destination-id>mounts-accessories</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>yes</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="reburbished" source-type="category">
+        <destination-id>mounts-accessories</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="shopbyactivity" source-type="category">
+        <destination-id>mounts-accessories</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="AASPR-001" source-type="product">
+        <destination-id>mounts-accessories</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="ACARC-001" source-type="product">
+        <destination-id>mounts-accessories</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="ACHMJ-301" source-type="product">
+        <destination-id>mounts-accessories</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="ADLRK-301" source-type="product">
+        <destination-id>mounts-accessories</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="ADV3D-301" source-type="product">
+        <destination-id>mounts-accessories</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="ADV3M-301" source-type="product">
+        <destination-id>mounts-accessories</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="AHD3D-301" source-type="product">
+        <destination-id>mounts-accessories</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/gopro-plus-monthly/GoProPlusMonthly.html">
+        <destination-id>softwareandapp</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/softwareandapp/gopro-replay-app-|-mobile/GoPro-Replay-App.html">
+        <destination-id>softwareandapp</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/softwareandapp/gopro-splice-app-|-mobile/GoPro-Splice-App.html">
+        <destination-id>softwareandapp</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="GoPro-App" source-type="product">
+        <destination-id>softwareandapp</destination-id>
+        <destination-type>category</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Landing-H7TechSpecs?pid=CHDHB-601-master">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>Landing-H7WTechSpecs</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Landing-H7TechSpecs?pid=CHDHC-601-master">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>Landing-H7STechSpecs</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Landing-H7TechSpecs?pid=CHDHX-701-master">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>Landing-H7BTechSpecs</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Landing-H7TechSpecs?pid=CHDHX-801-master">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>Landing-H8BTechSpecs</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Landing-H7TechSpecs?pid=CHDHZ-201-master">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>Landing-MaxTechSpecs</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Marketing/accessories-2/blue-water-snorkel-filter-hero5-black/AACDR-001.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/accessories-2/blue-water-snorkel-filter-hero6-blackhero5-black/AACDR-001.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Marketing/accessories-2/blue-water-snorkel-filter-hero6-blackhero5-black/AACDR-001.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/accessories-2/blue-water-snorkel-filter-hero6-blackhero5-blackhero-2018/AACDR-001.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Marketing/accessories-2/dual-battery-charger-plus-battery-hero5-black/AADBD-001.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/accessories-2/dual-battery-charger-plus-battery-hero6-blackhero5-black/AADBD-001.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Marketing/accessories-2/dual-battery-charger-plus-battery-hero6-blackhero5-black/AADBD-001.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/accessories-2/dual-battery-charger-plus-battery-hero6-blackhero5-blackhero-2018/AADBD-001.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Marketing/accessories-2/floaty-for-hero-session-cameras/ARFLT-001.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/accessories-2/floaty-session/ARFLT-001.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Marketing/accessories-2/karma-harness-hero5-black/AGFAU-001.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/accessories-2/karma-harness-hero6-blackhero5-black/AGFAU-001.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Marketing/accessories-2/protective-lens-replacement-hero5-black/AACOV-001.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/accessories-2/protective-lens-replacement-hero6-blackhero5-black/AACOV-001.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Marketing/accessories-2/protective-lens-replacement-hero6-blackhero5-black/AACOV-001.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/accessories-2/protective-lens-replacement-hero6-blackhero5-blackhero-2018/AACOV-001.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Marketing/accessories-2/rechargeable-battery-hero5-black/AABAT-001.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/accessories-2/rechargeable-battery-hero6-blackhero5-black/AABAT-001.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Marketing/accessories-2/rechargeable-battery-hero6-blackhero5-black/AABAT-001.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/accessories-2/rechargeable-battery-hero6-blackhero5-blackhero-2018/AABAT-001.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Marketing/accessories-2/replacement-side-door-hero5-black/AAIOD-001.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/accessories-2/replacement-side-door-hero6-blackhero5-black/AAIOD-001.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Marketing/accessories-2/replacement-side-door-hero6-blackhero5-black/AAIOD-001.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/accessories-2/replacement-side-door-hero6-blackhero5-blackhero-2018/AAIOD-001.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Marketing/accessories-2/screen-protectors-hero5-black/AAPTC-001.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/accessories-2/screen-protectors-hero6-blackhero5-black/AAPTC-001.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Marketing/accessories-2/screen-protectors-hero6-blackhero5-black/AAPTC-001.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/accessories-2/screen-protectors-hero6-blackhero5-blackhero-2018/AAPTC-001.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Marketing/accessories-2/super-suit-über-protection-plus-dive-housing-for-hero5-black/AADIV-001.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/accessories-2/super-suit-%C3%BCber-protection-plus-dive-housing-for-hero6-blackhero5-black/AADIV-001.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Marketing/accessories-2/super-suit-über-protection-plus-dive-housing-for-hero6-blackhero5-black/AADIV-001.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/accessories-2/super-suit-uber-protection-plus-dive-housing-for-hero6-blackhero5-blackhero-2018/AADIV-001.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Marketing/accessories-2/the-frame-hero5-black/AAFRM-001.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/accessories-2/the-frame-hero6-blackhero5-black/AAFRM-001.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Marketing/accessories-2/the-frame-hero6-blackhero5-black/AAFRM-001.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/accessories-2/the-frame-hero6-blackhero5-blackhero-2018/AAFRM-001.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Marketing/accessories-2/the-standard-frame-for-hero-session-cameras/ARFRM-002.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/accessories-2/the-standard-frame-session/ARFRM-002.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Marketing/cameras/heroplus-lcd/CHDHB-101.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/cameras/heroplus-lcd/CHDHB-101-master.html</destination-url>
+        <copy-source-params>yes</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Marketing/karma">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/mounts-accessories?compatibility=Karma</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Marketing/karma/">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/mounts-accessories?compatibility=Karma</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Marketing/mounts/bite-mount-plus-floaty-for-hero-session-cameras/ASLSM-001.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/mounts/bite-mount-plus-floaty-session/ASLSM-001.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/Marketing/mounts/low-profile-helmet-swivel-mount-for-hero-session-cameras/ARSDM-001.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/mounts/low-profile-helmet-swivel-mount-session/ARSDM-001.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/accessories/dual-battery-charger-plus-battery-for-hero4/AHBBP-401.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/accessories/dual-battery-charger-plus-battery-for-hero4-blackhero4-silver/AHBBP-401.html</destination-url>
+        <copy-source-params>yes</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/accessories/floaty-for-hero4-session/ARFLT-001.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/accessories/floaty-for-hero-session-cameras/ARFLT-001.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/accessories/lens-replacement-kit-for-hero4-session/ARLRK-001.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/accessories/lens-replacement-kit-for-hero-session-cameras/ARLRK-001.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/accessories/magenta-dive-filter-for-standard-plus-blackout-housing/ABDFM-301.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/accessories/magenta-dive-filter-for-standard-plus-blackout-plus-camo-housing/ABDFM-301.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/accessories/rechargeable-battery-for-hero4/AHDBT-401.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/accessories/rechargeable-battery-for-hero4-blackhero4-silver/AHDBT-401.html</destination-url>
+        <copy-source-params>yes</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/accessories/red-dive-filter-for-standard-plus-blackout-housing/ABDFR-301.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/accessories/red-dive-filter-for-standard-plus-blackout-plus-camo-housing/ABDFR-301.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/cameras/heroplus-lcd/CHDHB-101.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/cameras/heroplus-lcd/CHDHB-101-master.html</destination-url>
+        <copy-source-params>yes</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/default/Landing-H7TechSpecs?pid=CHDHX-801-master">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>Landing-H8BTechSpecs</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/default/Landing-H7TechSpecs?pid=CHDHZ-201-master">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>Landing-MaxTechSpecs</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/experience">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>https://gopro.com/experience</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/giftcertpurchase">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/cameras</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/hero4">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/cameras</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/hero6">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/cameras</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/karma">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/mounts-accessories?compatibility=Karma</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/karmabundle">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/mounts-accessories?compatibility=Karma</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/karmabundle/">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/mounts-accessories?compatibility=Karma</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/karmatechspecs">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/mounts-accessories?compatibility=Karma</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/karmatechspecs/">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/mounts-accessories?compatibility=Karma</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/karmavideos">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/mounts-accessories?compatibility=Karma</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/karmavideos/">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/mounts-accessories?compatibility=Karma</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/karmawhatsincluded">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/mounts-accessories?compatibility=Karma</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/karmawhatsincluded/">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/mounts-accessories?compatibility=Karma</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/mounts/the-frames-for-hero4-session/ARFRM-001.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/mounts/the-frames-for-hero-session-cameras/ARFRM-001.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/shopbyactivity/auto-bundle/auto-bundle.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/shopbyactivity/auto/black-auto-bundle.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/shopbyactivity/aviation-bundle/aviation-bundle.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/shopbyactivity/aviation/silver-aviation-bundle.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/shopbyactivity/bike-bundle/bike-bundle.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/shopbyactivity/bmxmountain-bike/black-bmx%2Fmountain-bike-bundle.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/shopbyactivity/boating-bundle/boating-bundle.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/shopbyactivity/boating/silver-boating-bundle.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/shopbyactivity/dive-bundle/dive-bundle.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/shopbyactivity/dive-advanced/black-dive-bundle.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/shopbyactivity/halloween-bundle/halloween-bundle-eu.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/shopbyactivity</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/shopbyactivity/hockey-bundle/hockey-bundle.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/shopbyactivity/hockey/session-hockey-bundle.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/shopbyactivity/hunt-plus-fish-bundle/huntandfish-bundle.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/shopbyactivity/hunt-plus-fish/silver-huntandfish-bundle.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/shopbyactivity/kayak-bundle/kayak-bundle.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/shopbyactivity/kayak/session-kayak-bundle.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/shopbyactivity/military-bundle/military-bundle.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/shopbyactivity</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/shopbyactivity/moto-bundle/moto-bundle.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/shopbyactivity/moto/black-moto-bundle.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/shopbyactivity/music-bundle/music-bundle.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/shopbyactivity/music/black-music-bundle.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/shopbyactivity/radio-control-bundle/radiocontrol-bundle.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/shopbyactivity/radio-control/black-radiocontrol-bundle.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/shopbyactivity/rock-climbing-bundle/rockclimbing-bundle.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/shopbyactivity/rock-climbing/session-rockclimbing-bundle.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/shopbyactivity/skate-bundle/skate-bundle.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/shopbyactivity/skate/black-skate-bundle.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/shopbyactivity/ski-bundle/ski-bundle.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/shopbyactivity/ski/black-ski-bundle.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/shopbyactivity/skydiving-bundle/skydiving-bundle.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/shopbyactivity/skydiving/session-skydiving-bundle.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/shopbyactivity/snowboarding-bundle/snowboarding-bundle.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/snowboarding/silver-snowboarding-bundle.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/shopbyactivity/snowmobiling-bundle/snowmobiling-bundle.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/shopbyactivity/snowmobiling/silver-snowmobiling-bundle.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/shopbyactivity/sup-bundle/SUP-bundle.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/shopbyactivity/sup/silver-sup-bundle.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/shopbyactivity/surf-bundle/surf-bundle.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/shopbyactivity/surf/black-surf-bundle.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/shopbyactivity/wakeboarding-bundle/wakeboarding-bundle.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/shopbyactivity/wakeboarding/session-wakeboarding-bundle.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/softwareandapp/gopro-app-|-desktop/GoPro-Desktop-App.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/softwareandapp/quik-%7C-desktop/Quik-Desktop.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/softwareandapp/gopro-app/GoPro-App.html">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/softwareandapp/gopro-app-%7C-mobile/GoPro-App.html</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/trade">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/tradeup</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="karma-hidden" source-type="category">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/mounts-accessories?compatibility=Karma</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="AGIMB-002" source-type="product">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/stabilization</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHA-301-EU" source-type="product">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/cameras</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHA-301-master" source-type="product">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/cameras</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHB-101-EU" source-type="product">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/cameras</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHB-101-master" source-type="product">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/cameras</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHC-101-EU" source-type="product">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/cameras</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHC-101-master" source-type="product">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/cameras</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDNH-B10" source-type="product">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/cameras</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="GPGBB-master" source-type="product">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/apparel</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="GPGBV-master" source-type="product">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/apparel</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="GPGHS-female-flag-hoodie-master" source-type="product">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/apparel</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="GPGHS-mens-flag-hoodie-master" source-type="product">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/apparel</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="GPGHT-flag-hat-master" source-type="product">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/apparel</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="GPGHT-team-logo-hat-master" source-type="product">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/apparel</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="GPGHT-woven-patch-master" source-type="product">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/apparel</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="GPGTS-female-flag-tee-master" source-type="product">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/apparel</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="GPGTS-female-logo-tee-master" source-type="product">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/apparel</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="GPGTS-male-logo-tee-master" source-type="product">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/apparel</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="GPGTS-mens-flag-tee-master" source-type="product">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/Marketing/apparel</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="GoProPlusMonthly" source-type="product">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>https://gopro.com/help/articles/block/What-is-Plus</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="black-aviation-bundle" source-type="product">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/shopbyactivity</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="session-aviation-bundle" source-type="product">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/shopbyactivity</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="silver-aviation-bundle" source-type="product">
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <destination-url>/shopbyactivity</destination-url>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="ADVFR-301" source-type="product">
+        <destination-id>AAHDR-001</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="ABQRT-001" source-type="product">
+        <destination-id>ABQRT-002</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>yes</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="ACDBD-001-EU" source-type="product">
+        <destination-id>ACDBD-001</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="AFLTY-003" source-type="product">
+        <destination-id>AFLTY-004</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="AFTTM-master" source-type="product">
+        <destination-id>AFTTM-001</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="AGBAG-001" source-type="product">
+        <destination-id>AGBAG-002</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="GCHM30-001" source-type="product">
+        <destination-id>AGCHM-001</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/stabilization">
+        <destination-id>AGIMB-004</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="AGIMB-004-EU" source-type="product">
+        <destination-id>AGIMB-004</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="AGIMB-004-master" source-type="product">
+        <destination-id>AGIMB-004</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="GRBM30" source-type="product">
+        <destination-id>AGTLM-001</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="GRH30" source-type="product">
+        <destination-id>AGTSM-001</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="AHDAF-301" source-type="product">
+        <destination-id>AHDAF-302</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="AHEDM-001" source-type="product">
+        <destination-id>AHFSM-001</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="AHFMT-001" source-type="product">
+        <destination-id>AHFSM-001</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="AHDKH-301" source-type="product">
+        <destination-id>AHSSK-301</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="AJDBD-001-EU" source-type="product">
+        <destination-id>AJDBD-001</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="AJLCD-001-EU" source-type="product">
+        <destination-id>AJLCD-001</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="ALTSC-001-EU" source-type="product">
+        <destination-id>ALTSC-001</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="ARFRM-001" source-type="product">
+        <destination-id>ARFRM-002</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="ARLRK-001" source-type="product">
+        <destination-id>ARLRK-002</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="ASDMC-332-EU" source-type="product">
+        <destination-id>ASDMC-432-EU</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="ASGUM-001" source-type="product">
+        <destination-id>ASGUM-002</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="AWALC-001" source-type="product">
+        <destination-id>AWALC-002</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="AWOPB-001" source-type="product">
+        <destination-id>AWOPB-002</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="AZPBC-001" source-type="product">
+        <destination-id>AZPBC-002</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHS-501-master" source-type="product">
+        <destination-id>CHDHB-501-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHS-502-master" source-type="product">
+        <destination-id>CHDHB-501-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHB-501" source-type="product">
+        <destination-id>CHDHB-601-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHB-501-RW" source-type="product">
+        <destination-id>CHDHB-601-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHB-501-master" source-type="product">
+        <destination-id>CHDHB-601-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHC-101" source-type="product">
+        <destination-id>CHDHC-101-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>yes</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHX-502" source-type="product">
+        <destination-id>CHDHC-601-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHX-502-master" source-type="product">
+        <destination-id>CHDHC-601-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHS-101" source-type="product">
+        <destination-id>CHDHS-101-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>yes</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHS-101-EU" source-type="product">
+        <destination-id>CHDHS-102-EU</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDSS-101-EU" source-type="product">
+        <destination-id>CHDHS-102-EU</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/HERO-Session">
+        <destination-id>CHDHS-102-master</destination-id>
+        <destination-type>product</destination-type>
+        <product-category-id>cameras</product-category-id>
+        <status-code>302</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHS-101-master" source-type="product">
+        <destination-id>CHDHS-102-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDSS-101-master" source-type="product">
+        <destination-id>CHDHS-102-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/HERO5-Session">
+        <destination-id>CHDHS-501-master</destination-id>
+        <destination-type>product</destination-type>
+        <product-category-id>cameras</product-category-id>
+        <status-code>302</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/HERO5-Black">
+        <destination-id>CHDHX-501-master</destination-id>
+        <destination-type>product</destination-type>
+        <product-category-id>cameras</product-category-id>
+        <status-code>302</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDBX-401-master" source-type="product">
+        <destination-id>CHDHX-501-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDBY-401-master" source-type="product">
+        <destination-id>CHDHX-501-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHX-401-master" source-type="product">
+        <destination-id>CHDHX-501-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHY-401-master" source-type="product">
+        <destination-id>CHDHX-501-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDSX-401-master" source-type="product">
+        <destination-id>CHDHX-501-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDSY-401-master" source-type="product">
+        <destination-id>CHDHX-501-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHX-501-master" source-type="product">
+        <destination-id>CHDHX-502-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url uri="/HERO6-Black">
+        <destination-id>CHDHX-601-master</destination-id>
+        <destination-type>product</destination-type>
+        <product-category-id>cameras</product-category-id>
+        <status-code>302</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHX-601" source-type="product">
+        <destination-id>CHDHX-701-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHX-601-FW" source-type="product">
+        <destination-id>CHDHX-701-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHX-601-RW" source-type="product">
+        <destination-id>CHDHX-701-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHX-601-master" source-type="product">
+        <destination-id>CHDHX-701-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHX-702-master" source-type="product">
+        <destination-id>CHDHX-701-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHX-801" source-type="product">
+        <destination-id>CHDHX-801-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHX-801-FW" source-type="product">
+        <destination-id>CHDHX-801-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHX-801-RW" source-type="product">
+        <destination-id>CHDHX-801-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHZ-101" source-type="product">
+        <destination-id>CHDHZ-103-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHZ-101-master" source-type="product">
+        <destination-id>CHDHZ-103-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHZ-103" source-type="product">
+        <destination-id>CHDHZ-201-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHZ-103-master" source-type="product">
+        <destination-id>CHDHZ-201-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHZ-201" source-type="product">
+        <destination-id>CHDHZ-201-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHZ-201-FW" source-type="product">
+        <destination-id>CHDHZ-201-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDHZ-201-RW" source-type="product">
+        <destination-id>CHDHZ-201-master</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+    <redirect-url source-id="CHDNH-B07" source-type="product">
+        <destination-id>CHDNH-B10</destination-id>
+        <destination-type>product</destination-type>
+        <status-code>301</status-code>
+        <enabled-flag>true</enabled-flag>
+        <copy-source-params>default</copy-source-params>
+    </redirect-url>
+
+</redirect-urls>
